@@ -2,6 +2,9 @@
 
 ***hello i'm qusai and i am electrical engineer graduat in 2015 . and company owner for 3 years . and now iam looking for new thing to learin about it*** 
 
+**in last reading we have a done tow topic each of them 
+Discussed your maind skill and your tech skill** 
+
 | name | Description |
 | --- | --- |
 | read01.md |read about growth mainset |
