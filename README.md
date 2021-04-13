@@ -5,14 +5,12 @@
 **in last reading we have a done tow topic each of them 
 Discussed your maind skill and your tech skill** 
 
-| name | Description |
-| --- | --- |
-| read01.md |read about growth mainset |
-| read02.md| read about technecal tools of git|
+| name | description | link |
+| :---         |     :---:      |          ---: |
+| read01   | growth maindset    | [read01](https://qusaiqeisi.github.io/reading-notes/read01)    |
+| read02     | git and VCS     | [read02](https://qusaiqeisi.github.io/reading-notes/Read02)      |
+
 
 ***for more information you can follow te link down to know more***
 
-[read01.md](https://github.com/qusaiqeisi/reading-notes/blob/main/read01.md)
 
-
-[read02.md](https://github.com/qusaiqeisi/reading-notes/blob/main/Read02.md)
