@@ -2,3 +2,12 @@
 
 ***hello i'm qusai and i am electrical engineer graduat in 2015 . and company owner for 3 years . and now iam looking for new thing to learin about it*** 
 
+| name | Description |
+| --- | --- |
+| read01.md |read about growth mainset |
+| read02.md| read about technecal tools of git|
+
+***for more information you can follow te link down to know more***
+
+[read01.md](https://github.com/qusaiqeisi/reading-notes/blob/main/read01.md)
+[read02.md](https://github.com/qusaiqeisi/reading-notes/blob/main/Read02.md)
