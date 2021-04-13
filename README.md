@@ -13,4 +13,6 @@ Discussed your maind skill and your tech skill**
 ***for more information you can follow te link down to know more***
 
 [read01.md](https://github.com/qusaiqeisi/reading-notes/blob/main/read01.md)
+
+
 [read02.md](https://github.com/qusaiqeisi/reading-notes/blob/main/Read02.md)
