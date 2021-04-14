@@ -53,5 +53,62 @@ and we do css to make it live and make change by JavaScript
 ![javascript](https://i.stack.imgur.com/ANAYh.png)
 
 
+**how its work**
+***How it Works?
+Line 8 declares a variable called username, via the keyword var. A variable is a named storage location that holds a value. Once the variable is declared, you can assign (and re-assign) a value to that variable, via the assignment operator '=' (Line 9).
+Line 9 invokes the prompt(promptingString, defaultString?) function to pop out a dialog box, and reads in the string entered by the user. The string read is assigned to the variable username. The function prompt() is similar to the alert(), but it accepts a user's input.
+In Line 10, the confirm(aString) function puts up the message and returns either true or false, depending on whether the user hits the OK or Cancel button.
+If the result is true, Line 11 prints "Hello, username!". Otherwise, Line 13 prints "Hello, world!".***
+
+for example:
 
 
+<!DOCTYPE html>
+<!-- JSExVar.html -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>JavaScript Example: Variables and functions prompt() and confirm()</title>
+  <script>
+    var username = prompt("Enter your name: ", "");
+    if (confirm("Your name is " + username)) {
+       document.write("<h1>Hello, " + username + "!</h1>");
+    } else {
+       document.write("<h1>Hello, world!</h1>");
+    }
+  </script>
+</head>
+<body>
+  <p>Welcome to JavaScript!</p>
+</body>
+</html>
+
+
+
+
+
+
+### Fill-in-the-blank
+<!DOCTYPE html>
+<!-- JSExVar.html -->
+<html lang="en">
+<head>
+  <meta.........="utf-8">
+  <title>JavaScript Example: Variables and functions prompt() and confirm()</title>
+  <script>
+    var username = prompt("Enter your name: ", "");
+    if (confirm("Your name is " + username)) {
+       document.write("<h1>......, " + username + "!</h1>");
+    } else {
+       document.write("<h1>Hello, world!</h1>");
+    }
+  </.........>
+</head>
+<body>
+  <p>Welcome to JavaScript!</p>
+</body>
+</html>
+
+
+
+**thank you**
