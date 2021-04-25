@@ -17,7 +17,7 @@ Discussed your maind skill and your tech skill**
 # Code-201-Reading-Notes.md
 | day  | reading num |
 | ------------- | ------------- |
-|1  | read01  |
+|1  | [read01](https://qusaiqeisi.github.io/reading-notes/class01)  |
 | 2  | read02  |
 | 3  |read03 |
 | 4  |read04 |
