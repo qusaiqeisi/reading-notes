@@ -23,7 +23,7 @@ Discussed your maind skill and your tech skill**
 |Read02|HTML Text, CSS Introduction, and Basic JavaScript Instructions|[class-02](https://qusaiqeisi.github.io/reading-notes/class-02)|
 |Read03 |HTML Lists, CSS Boxes, JS Control Flow|[class-03](https://qusaiqeisi.github.io/reading-notes/class-03)|
 |Read04|HTML Links, CSS Layout, JS Functions|[class-04](https://qusaiqeisi.github.io/reading-notes/class-04)|
-|Read05|HTML Images; CSS Color & Text|class|
+|Read05|HTML Images; CSS Color & Text|[class05](https://qusaiqeisi.github.io/reading-notes/class05)|
 |Read06| JS Object Literals; The DOM|class|
 |Read07|HTML Tables; JS Constructor Functions|class|
 |Read08|More CSS Layou|class|
