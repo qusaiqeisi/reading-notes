@@ -27,8 +27,8 @@ Discussed your maind skill and your tech skill**
 |Read06| JS Object Literals; The DOM|[class06](https://qusaiqeisi.github.io/reading-notes/class-06)|
 |Read07|HTML Tables; JS Constructor Functions|[class07](https://qusaiqeisi.github.io/reading-notes/class-07)|
 |Read08|More CSS Layou|[class08](https://qusaiqeisi.github.io/reading-notes/class-08)|
-|Read09|Forms and Events|class|
-|Read010| JS Debugging|class|
+|Read09|Forms and Events|[class09](https://qusaiqeisi.github.io/reading-notes/class-09)|
+|Read010| JS Debugging|[class10](https://qusaiqeisi.github.io/reading-notes/class-10)|
 |Read11| Assorted Topics|class|
 |Read12|Docs for the HTML <canvas> Element & Chart.js|class|
 |Read13|Local Storage|class|
