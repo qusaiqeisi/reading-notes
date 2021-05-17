@@ -29,7 +29,7 @@ Discussed your maind skill and your tech skill**
 |Read08|More CSS Layou|[class08](https://qusaiqeisi.github.io/reading-notes/class-08)|
 |Read09|Forms and Events|[class09](https://qusaiqeisi.github.io/reading-notes/class-09)|
 |Read010| JS Debugging|[class10](https://qusaiqeisi.github.io/reading-notes/class-10)|
-|Read11| Assorted Topics|class|
+|Read11| Assorted Topics|[class11](https://qusaiqeisi.github.io/reading-notes/class-11)|
 |Read12|Docs for the HTML <canvas> Element & Chart.js|class|
 |Read13|Local Storage|class|
 |Read14a|CSS Transforms, Transitions, and Animations|class|
