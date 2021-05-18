@@ -30,7 +30,7 @@ Discussed your maind skill and your tech skill**
 |Read09|Forms and Events|[class09](https://qusaiqeisi.github.io/reading-notes/class-09)|
 |Read010| JS Debugging|[class10](https://qusaiqeisi.github.io/reading-notes/class-10)|
 |Read11| Assorted Topics|[class11](https://qusaiqeisi.github.io/reading-notes/class-11)|
-|Read12|Docs for the HTML <canvas> Element & Chart.js|class|
+|Read12|Docs for the HTML <canvas> Element & Chart.js|[class12](https://qusaiqeisi.github.io/reading-notes/class-12)|
 |Read13|Local Storage|class|
 |Read14a|CSS Transforms, Transitions, and Animations|class|
 |Read14b|What Google Learned About Teams|class|
