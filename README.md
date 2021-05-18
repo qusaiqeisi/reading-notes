@@ -32,8 +32,8 @@ Discussed your maind skill and your tech skill**
 |Read11| Assorted Topics|[class11](https://qusaiqeisi.github.io/reading-notes/class-11)|
 |Read12|Docs for the HTML <canvas> Element & Chart.js|[class12](https://qusaiqeisi.github.io/reading-notes/class-12)|
 |Read13|Local Storage|[class13](https://qusaiqeisi.github.io/reading-notes/class-13)|
-|Read14a|CSS Transforms, Transitions, and Animations|class|
-|Read14b|What Google Learned About Teams|class|
+|Read14a|CSS Transforms, Transitions, and Animations|[class14a](https://qusaiqeisi.github.io/reading-notes/class-14a)|
+|Read14b|What Google Learned About Teams|[class14b](https://qusaiqeisi.github.io/reading-notes/class-14b)|
 
 
 **in this course we will creat new page and skills that will provied new thikg regard HTML and Java**
