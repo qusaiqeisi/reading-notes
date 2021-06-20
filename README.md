@@ -37,32 +37,14 @@ Discussed your maind skill and your tech skill**
   
   
   
-  # Code-301-Reading-Notes.md
-  
-| name      | Description | link     |
-| :---        |    :----:   |          ---: |
-| Read01      | Introduction to React and Components       | Here's this   |
-| Read02   | State and Props        | And more      |
-| Read03   | Passing Functions as Props        | And more      |
-| Read04   | React and Forms        | And more      |
-| Read05   | Putting it all together        | And more      |
-| Read06   | NODE.JS        | And more      |
-| Read07   | REST        | And more      |
-| Read08   | APIs        | And more      |
-| Read09   | FUNCTIONAL PROGRAMMING        | And more      |
-| Read10   | In memory storage        | And more      |
-| Read11   | Authentication        | And more      |
-| Read12   | Mongo and Mongoose        | And more      |
-| Read13   | CRUD        | And more      |
-| Read14   | Diversity & Inclusion in the Tech Industry        | And more      |
-| Read15   | Project Kickoff        | And more      |
+ 
 
 
 # Code-301-Reading-Notes.md
   
 | name      | Description | link     |
 | :---        |    :----:   |          ---: |
-| Read01      | Introduction to React and Components       | Here's this   |
+| Read01      | Introduction to React and Components       | [class1](https://qusaiqeisi.github.io/reading-notes/class1) |
 | Read02   | State and Props        | And more      |
 | Read03   | Passing Functions as Props        | And more      |
 | Read04   | React and Forms        | And more      |
