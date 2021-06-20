@@ -45,7 +45,7 @@ Discussed your maind skill and your tech skill**
 | name      | Description | link     |
 | :---        |    :----:   |          ---: |
 | Read01      | Introduction to React and Components       | [class1](https://qusaiqeisi.github.io/reading-notes/class1) |
-| Read02   | State and Props        | And more      |
+| Read02   | State and Props        | [class2](https://qusaiqeisi.github.io/reading-notes/class2)    |
 | Read03   | Passing Functions as Props        | And more      |
 | Read04   | React and Forms        | And more      |
 | Read05   | Putting it all together        | And more      |
