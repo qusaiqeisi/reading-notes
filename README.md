@@ -48,7 +48,7 @@ Discussed your maind skill and your tech skill**
 | Read02   | State and Props        | [class2](https://qusaiqeisi.github.io/reading-notes/class2)    |
 | Read03   | Passing Functions as Props        | And more      |
 | Read04   | React and Forms        | And more      |
-| Read05   | Putting it all together        | And more      |
+| Read05   | Putting it all together        | [clas5] (https://qusaiqeisi.github.io/reading-notes/class5)    |
 | Read06   | NODE.JS        | And more      |
 | Read07   | REST        | And more      |
 | Read08   | APIs        | And more      |
