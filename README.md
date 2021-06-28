@@ -50,8 +50,8 @@ Discussed your maind skill and your tech skill**
 | Read04   | React and Forms        | And more      |
 | Read05   | Putting it all together        | [clas5] (https://qusaiqeisi.github.io/reading-notes/class5)    |
 | Read06   | NODE.JS        | [class6](https://qusaiqeisi.github.io/reading-notes/class6)      |
-| Read07   | REST        | [class](https://qusaiqeisi.github.io/reading-notes/class7)    |
-| Read08   | APIs        | And more      |
+| Read07   | REST        | [class7](https://qusaiqeisi.github.io/reading-notes/class7)    |
+| Read08   | APIs        | [class8](https://qusaiqeisi.github.io/reading-notes/class8)     |
 | Read09   | FUNCTIONAL PROGRAMMING        | And more      |
 | Read10   | In memory storage        | And more      |
 | Read11   | Authentication        | And more      |
