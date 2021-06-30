@@ -53,7 +53,7 @@ Discussed your maind skill and your tech skill**
 | Read07   | REST        | [class7](https://qusaiqeisi.github.io/reading-notes/class7)    |
 | Read08   | APIs        | [class8](https://qusaiqeisi.github.io/reading-notes/class8)     |
 | Read09   | FUNCTIONAL PROGRAMMING        | [class9](https://qusaiqeisi.github.io/reading-notes/class9)    |
-| Read10   | In memory storage        | And more      |
+| Read10   | In memory storage        | [class10](https://qusaiqeisi.github.io/reading-notes/class10)      |
 | Read11   | Authentication        | And more      |
 | Read12   | Mongo and Mongoose        | And more      |
 | Read13   | CRUD        | And more      |
