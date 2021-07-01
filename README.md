@@ -54,7 +54,7 @@ Discussed your maind skill and your tech skill**
 | Read08   | APIs        | [class8](https://qusaiqeisi.github.io/reading-notes/class8)     |
 | Read09   | FUNCTIONAL PROGRAMMING        | [class9](https://qusaiqeisi.github.io/reading-notes/class9)    |
 | Read10   | In memory storage        | [class10](https://qusaiqeisi.github.io/reading-notes/class10)      |
-| Read11   | Authentication        | And more      |
+| Read11   | Authentication        | [class1] (https://qusaiqeisi.github.io/reading-notes/class11)     |
 | Read12   | Mongo and Mongoose        | And more      |
 | Read13   | CRUD        | And more      |
 | Read14   | Diversity & Inclusion in the Tech Industry        | And more      |
