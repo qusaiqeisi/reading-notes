@@ -56,7 +56,7 @@ Discussed your maind skill and your tech skill**
 | Read10   | In memory storage        | [class10](https://qusaiqeisi.github.io/reading-notes/class10)      |
 | Read11   | Authentication        | [class11](https://qusaiqeisi.github.io/reading-notes/class11)     |
 | Read12   | Mongo and Mongoose        |[class12](https://qusaiqeisi.github.io/reading-notes/Class12)    |
-| Read13   | CRUD        | And more      |
+| Read13   | CRUD        | [class13](https://qusaiqeisi.github.io/reading-notes/class13)      |
 | Read14   | Diversity & Inclusion in the Tech Industry        | And more      |
 | Read15   | Project Kickoff        | And more      |
 
