@@ -61,6 +61,26 @@ Discussed your maind skill and your tech skill**
 | Read15   | Project Kickoff        | And more      |
 
 
+
+
+
+
+
+
+# Code-401-Reading-Notes.md
+  
+| name      | Description | link     |
+| :---        |    :----:   |          ---: |
+| ClassRead1   | Prep: Readings ... Get Ready for 401    | And more      |
+
+
+
+
+
+
+
+
+
 **in this course we will creat new page and skills that will provied new thikg regard HTML and Java**
 ### iam qusai alqaisi new studant in ASAC at softwaer devlopment and i have 5 year experince with buisness feeld .
 > for more information please be update with us 
