@@ -4,7 +4,7 @@
 
 **in last reading we have a done tow topic each of them 
 Discussed your maind skill and your tech skill** 
-
+# Code 102 - Intro to Software Development
 | name | description | link |
 | :---         |     :---:      |          ---: |
 | read01   | growth maindset    | [read01](https://qusaiqeisi.github.io/reading-notes/read01)    |
@@ -16,7 +16,7 @@ Discussed your maind skill and your tech skill**
 
 
 
-# Code-201-Reading-Notes.md
+# Code 201 - Foundations of Software Development
 | name  | description | link |
 | :---         |     :---:      |          ---: |
 |Read01|Introductory HTML and JavaScript|[class-01](https://qusaiqeisi.github.io/reading-notes/class-01)|
@@ -40,7 +40,8 @@ Discussed your maind skill and your tech skill**
  
 
 
-# Code-301-Reading-Notes.md
+# Code 301 - Intermediate Software Development
+
   
 | name      | Description | link     |
 | :---        |    :----:   |          ---: |
@@ -67,11 +68,12 @@ Discussed your maind skill and your tech skill**
 
 
 
-# Code-401-Reading-Notes.md
+# Code 401 - Advanced Software Development
+
   
 | name      | Description | link     |
 | :---        |    :----:   |          ---: |
-| ClassRead1   | Prep: Readings ... Get Ready for 401    | And more      |
+| ClassRead1   | Prep: Readings ... Get Ready for 401    | [class1](https://qusaiqeisi.github.io/reading-notes/ClassRead1)  |
 
 
 
