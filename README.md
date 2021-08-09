@@ -74,7 +74,7 @@ Discussed your maind skill and your tech skill**
 | name      | Description | link     |
 | :---        |    :----:   |          ---: |
 | ClassReadprep   | Prep: Readings ... Get Ready for 401    | [class](https://qusaiqeisi.github.io/reading-notes/ClassRead1)  |
-| ClassRead1   | Review, Research, and Discussion  | [class1](https://qusaiqeisi.github.io/reading-notes/ClassRead21)  |
+| ClassRead1   | Review, Research, and Discussion  | [class1](https://qusaiqeisi.github.io/reading-notes/ClassRead2)  |
 | ClassRead2   | Review, Research, and Discussion  | [class2](https://qusaiqeisi.github.io/reading-notes/ClassRead3)  |
 
 
