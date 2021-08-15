@@ -79,6 +79,8 @@ Discussed your maind skill and your tech skill**
 | ClassRead3   | Review, Research, and Discussion  | [class3](https://qusaiqeisi.github.io/reading-notes/ClassRead4)  |
 | ClassRead4   | Review, Research, and Discussion  | [class4](https://qusaiqeisi.github.io/reading-notes/ClassRead5)  |
 | ClassRead5   |linked list  | [class5](https://qusaiqeisi.github.io/reading-notes/LinkedLists)  |
+| ClassRead6   |Authentication  | [class6](https://qusaiqeisi.github.io/reading-notes/ClassRead6)  |
+
 
 
 
