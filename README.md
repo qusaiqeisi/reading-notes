@@ -82,6 +82,7 @@ Discussed your maind skill and your tech skill**
 | ClassRead6   |Authentication  | [class6](https://qusaiqeisi.github.io/reading-notes/ClassRead6)  |
 | ClassRead7   |Authentication  | [class7](https://qusaiqeisi.github.io/reading-notes/ClassRead7)  |
 | ClassRead8   |Access Control (ACL) | [class8](https://qusaiqeisi.github.io/reading-notes/ClassRead8)  |
+| ClassRead9   |Access Control (ACL) | [class9](https://qusaiqeisi.github.io/reading-notes/ClassRead9)  |
 
 
 
