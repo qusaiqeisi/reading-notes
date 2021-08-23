@@ -85,6 +85,7 @@ Discussed your maind skill and your tech skill**
 | ClassRead9   |Access Control (ACL) | [class9](https://qusaiqeisi.github.io/reading-notes/ClassRead9)  |
 | ClassRead10  |Stacks and Queues | [class10](https://qusaiqeisi.github.io/reading-notes/ClassRead10)  |
 | ClassRead11  |Stacks and Queues | [class11](https://qusaiqeisi.github.io/reading-notes/ClassRead11)  |
+| ClassRead12  |Stacks and Queues | [class12](https://qusaiqeisi.github.io/reading-notes/ClassRead12)  |
 
 
 
