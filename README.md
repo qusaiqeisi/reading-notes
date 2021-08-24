@@ -86,6 +86,7 @@ Discussed your maind skill and your tech skill**
 | ClassRead10  |Stacks and Queues | [class10](https://qusaiqeisi.github.io/reading-notes/ClassRead10)  |
 | ClassRead11  |Stacks and Queues | [class11](https://qusaiqeisi.github.io/reading-notes/ClassRead11)  |
 | ClassRead12  |Stacks and Queues | [class12](https://qusaiqeisi.github.io/reading-notes/ClassRead12)  |
+| ClassRead13  |Message Queues | [class13](https://qusaiqeisi.github.io/reading-notes/ClassRead13)  |
 
 
 
