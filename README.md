@@ -89,6 +89,7 @@ Discussed your maind skill and your tech skill**
 | ClassRead13  |Message Queues | [class13](https://qusaiqeisi.github.io/reading-notes/ClassRead13)  |
 | ClassRead14  |Message Queues | [class14](https://qusaiqeisi.github.io/reading-notes/ClassRead14)  |
 | ClassRead16  |AWS | [class16](https://qusaiqeisi.github.io/reading-notes/ClassRead16)  |
+| ClassRead17  |AWS-s3 | [class17](https://qusaiqeisi.github.io/reading-notes/ClassRead17)  |
 
 
 
