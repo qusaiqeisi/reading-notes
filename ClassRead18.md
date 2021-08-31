@@ -101,9 +101,9 @@ npm install dynamoose
 ```
 
 
-
+```
 ## External resources :
-
+```
 - [https://www.docker.com/resources/what-container](https://www.docker.com/resources/what-container)
 - [https://www.paessler.com/it-explained/bandwidth](https://www.paessler.com/it-explained/bandwidth)
 - [https://expedient.com/knowledgebase/blog/2015-05-01-how-the-cost-of-cloud-computing-is-calculated/](https://expedient.com/knowledgebase/blog/2015-05-01-how-the-cost-of-cloud-computing-is-calculated/)
