@@ -93,6 +93,7 @@ Discussed your maind skill and your tech skill**
 | ClassRead18  |AWS-s3 | [class18](https://qusaiqeisi.github.io/reading-notes/ClassRead18)  |
 | ClassRead19  |AWS-s3 | [class19](https://qusaiqeisi.github.io/reading-notes/ClassRead19)  |
 | ClassRead26  |Component Based UI | [class26](https://qusaiqeisi.github.io/reading-notes/ClassRead26)  |
+| ClassRead27  |useState() Hook | [class27](https://qusaiqeisi.github.io/reading-notes/ClassRead27)  |
 
 
 
