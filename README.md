@@ -96,7 +96,7 @@ Discussed your maind skill and your tech skill**
 | ClassRead27  |useState() Hook | [class27](https://qusaiqeisi.github.io/reading-notes/ClassRead27)  |
 | ClassRead28  |Lifecycle / useEffect() | [class28](https://qusaiqeisi.github.io/reading-notes/ClassRead28)  |
 | ClassRead29  |Advanced State with Reducers| [class29](https://qusaiqeisi.github.io/reading-notes/ClassRead29)  |
-
+| HashTables |HashTables| [HashTables](https://qusaiqeisi.github.io/reading-notes/HashTables)  |
 
 
 
