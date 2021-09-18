@@ -97,6 +97,7 @@ Discussed your maind skill and your tech skill**
 | ClassRead28  |Lifecycle / useEffect() | [class28](https://qusaiqeisi.github.io/reading-notes/ClassRead28)  |
 | ClassRead29  |Advanced State with Reducers| [class29](https://qusaiqeisi.github.io/reading-notes/ClassRead29)  |
 | HashTables |HashTables| [HashTables](https://qusaiqeisi.github.io/reading-notes/HashTables)  |
+| ClassRead31  |Context API | [class31](https://qusaiqeisi.github.io/reading-notes/ClassRead31)  |
 
 
 
