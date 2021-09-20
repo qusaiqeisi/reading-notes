@@ -98,6 +98,8 @@ Discussed your maind skill and your tech skill**
 | ClassRead29  |Advanced State with Reducers| [class29](https://qusaiqeisi.github.io/reading-notes/ClassRead29)  |
 | HashTables |HashTables| [HashTables](https://qusaiqeisi.github.io/reading-notes/HashTables)  |
 | ClassRead31  |Context API | [class31](https://qusaiqeisi.github.io/reading-notes/ClassRead31)  |
+| ClassRead32  |Context  | [class32](https://qusaiqeisi.github.io/reading-notes/ClassRead32)  |
+| ClassRead33  |Context  | [class33](https://qusaiqeisi.github.io/reading-notes/ClassRead33)  |  
 
 
 
