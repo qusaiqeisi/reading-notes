@@ -100,7 +100,7 @@ Discussed your maind skill and your tech skill**
 | ClassRead31  |Context API | [class31](https://qusaiqeisi.github.io/reading-notes/ClassRead31)  |
 | ClassRead32  |Context  | [class32](https://qusaiqeisi.github.io/reading-notes/ClassRead32)  |
 | ClassRead33  |Context  | [class33](https://qusaiqeisi.github.io/reading-notes/ClassRead33)  |  
-
+| ClassRead34  |API Integration| [class34](https://qusaiqeisi.github.io/reading-notes/ClassRead34)  |
 
 
 
