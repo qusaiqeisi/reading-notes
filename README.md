@@ -101,7 +101,7 @@ Discussed your maind skill and your tech skill**
 | ClassRead32  |Context  | [class32](https://qusaiqeisi.github.io/reading-notes/ClassRead32)  |
 | ClassRead33  |Context  | [class33](https://qusaiqeisi.github.io/reading-notes/ClassRead33)  |  
 | ClassRead34  |API Integration| [class34](https://qusaiqeisi.github.io/reading-notes/ClassRead34)  |
-
+| Graphs |Graphs| [Graphs](https://qusaiqeisi.github.io/reading-notes/Graphs)  |
 
 
 
