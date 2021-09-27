@@ -103,6 +103,7 @@ Discussed your maind skill and your tech skill**
 | ClassRead34  |API Integration| [class34](https://qusaiqeisi.github.io/reading-notes/ClassRead34)  |
 | Graphs |Graphs| [Graphs](https://qusaiqeisi.github.io/reading-notes/Graphs)  |
 | ClassRead36  |redux| [class36](https://qusaiqeisi.github.io/reading-notes/ClassRead36)  |
+| ClassRead37  |redux| [class37](https://qusaiqeisi.github.io/reading-notes/ClassRead37)  |
 
 
 
