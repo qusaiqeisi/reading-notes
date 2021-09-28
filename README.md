@@ -104,8 +104,8 @@ Discussed your maind skill and your tech skill**
 | Graphs |Graphs| [Graphs](https://qusaiqeisi.github.io/reading-notes/Graphs)  |
 | ClassRead36  |redux| [class36](https://qusaiqeisi.github.io/reading-notes/ClassRead36)  |
 | ClassRead37  |redux| [class37](https://qusaiqeisi.github.io/reading-notes/ClassRead37)  |
-| ClassRead38  |redux| [class38](https://qusaiqeisi.github.io/reading-notes/ClassRead38)  |
-
+| ClassRead38  |thun| [class38](https://qusaiqeisi.github.io/reading-notes/ClassRead38)  |
+| ClassRead39  |thun| [class39](https://qusaiqeisi.github.io/reading-notes/ClassRead39)  |
 
 
 
